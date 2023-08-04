@@ -1,4 +1,4 @@
-## Hunter Carr | Cloud/Web Developer & Admin
+## Hunter Carr | Web/Cloud Developer & Admin
 
 ### Skills - 
 ***Programming***: Bash/GNU, JavaScript, Python, SQL, MongoDB, Node.js, Express.js, React.js, Vue.js, REST API, Game Server Hosting
