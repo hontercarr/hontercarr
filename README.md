@@ -1,10 +1,8 @@
 ## Hunter Carr | Web/Cloud Developer & Admin
 
 ### Skills - 
-***Programming***: Bash/GNU, JavaScript, Python, SQL, MongoDB, Node.js, Express.js, React.js, Vue.js, REST API, Game Server Hosting
+***Programming***: Bash, JavaScript, Python, SQL, MongoDB, Node.js, Express.js, React.js, Vue.js, REST API, Game Server Hosting
 
-***Tools***: Docker, Apache/Nginx, Linux (Arch, Debian, CentOS), VMWare, Virtualbox, Proxmox, SSH, Vim, IPTables, DNS, Microsoft Office, Adobe Suite
-
-***Support***: Windows/Linux Support, User Interface Support, Customer Service
+***Tools***: Docker, Nginx, GNU/Linux (Arch, Debian, CentOS), VMWare, Virtualbox, Proxmox
 
 ***Music***: [SoundCloud](https://soundcloud.com/hxntercarr)
